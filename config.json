@@ -12,7 +12,7 @@
           "tweepy",
           "mcp",
           "run",
-          "path/to/your/main.py"
+          "path/to/your/script.py"
         ]
       }
     }

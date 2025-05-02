@@ -5,8 +5,9 @@ This repository contains the **Twitter Marketing MCP**, a tool designed to strea
 ## Video Demonstration
 
 Watch the video demonstration of the **Twitter Marketing MCP** in action:  
-[![Demo](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22screenshot_1746178835929.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-05-01T09%3A40%3A33.818Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F33b7f5ba913347cd%2Fscreenshot_1746178835929.png%3FExpires%3D1840786834%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3D06js~0NLS0YWydyud9a-Gf9QumEnCyA9QyWDl6aYpqGkRHtIHzIq0kDzbIz2Ls3bQ9oRUa-YMeyuwruwZ3NbbYxwtBJtMKg4RLEz-VJjspBi~W9u1MTeOyFevPhdKpf~0cBs2TNZ-kARliO06MSkjyyl6gweO~szeiJLkmMp2Gyw17Wt--AcF6sukIrd1fxKBelsKpesX02FQWnxtqAIRD2P-THIZ9xqEUmxDAuTvRJHnmTUnQwN4znzca1OUam6-qI65YGlS3ueaGq8GI9l9lH2JShlxPSmcf6-0gfyc-YusZoiBO3wUvoaXE7zggN3qNz5lkq2YGd5Qevdqgd-bQ__%22%7D)](working.mp4)
+# Linkedin Post
 
+[Watch the video demonstration on LinkedIn](https://www.linkedin.com/posts/rugvedp_ai-twitterbot-automation-activity-7324008443239903232-lVWa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADawhcMB8OoVwx5oE_0k00nkpuwmA62Uzws)
 
 ## Features
 
