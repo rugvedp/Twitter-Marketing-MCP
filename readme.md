@@ -1,3 +1,8 @@
+<a href="https://glama.ai/mcp/servers/@rugvedp/Twitter-Marketing-MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@rugvedp/Twitter-Marketing-MCP/badge" />
+</a>
+
+
 # Twitter Marketing MCP
 
 This repository contains the **Twitter Marketing MCP**, a tool designed to streamline social media marketing tasks using Python. It includes features for tweeting, image generation, and web scraping.
